@@ -1,0 +1,1 @@
+python object_detection.py --input=image02.jpg --model=yolov8n.onnx --scale=0.00392 --width=640 --height=640 --rgb --postprocessing=yolov8 --classes=object_detection_classes_yolo.txt
